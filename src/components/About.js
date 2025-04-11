@@ -51,9 +51,17 @@ function About() {
                         that are not only visually appealing but also highly 
                         functional. My focus is on clean code, seamless user experiences, 
                         and performance optimization. 
-                        Whether it's a landing page or a complex dashboard – 
+                        Whether it's a landing page or a complex dashboard –
                         I bring designs to life with precision and creativity
-                                            
+
+
+                                     I'm a passionate Frontend Developer with 
+                        2+ of experience building web applications 
+                        that are not only visually appealing but also highly 
+                        functional. My focus is on clean code, seamless user experiences, 
+                        and performance optimization. 
+                        Whether it's a landing page or a complex dashboard –
+                        I bring designs to life with precision and creativity         
                     </motion.p>
                 </div>
 
